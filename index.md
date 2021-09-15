@@ -1,4 +1,4 @@
-## Gwen Jacobs Director of Cyberinfrastructure University of Hawai'i System
+## Gwen Jacobs 
 
 You can use the [editor on GitHub](https://github.com/gwenajacobs/gwenajacobs.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
